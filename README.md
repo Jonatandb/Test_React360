@@ -12,3 +12,5 @@ https://github.com/nikgraf/awesome-react-360
 
 
 http://localhost:8081/vr/?hotreload  -> Con ?hotreload la página automáticamente se recarga al guardar modificaciones.
+
+![](preview.png?raw=true)
