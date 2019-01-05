@@ -1,4 +1,4 @@
-# react360-tests-01
+# Test_React360
 Build Virtual Reality Experiences Using React VR
 
 https://egghead.io/courses/build-virtual-reality-experiences-using-react-vr
